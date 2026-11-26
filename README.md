@@ -11,4 +11,4 @@ Python tool that generates transparent, auditable concrete quantity takeoffs fro
 - Walls, stairs, and CSV import
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/seif-habib-1a488b256/) · your@email.com
+[LinkedIn](https://www.linkedin.com/in/seif-habib-1a488b256/) · seifhabib19966@email.com
