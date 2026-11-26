@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Seif 👋
 
-<!--
-**Seifhabib69/Seifhabib69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Structural engineer building open-source tools for the construction industry.
 
-Here are some ideas to get you started:
+### Featured project
+**[concrete-quantity-takeoff](https://github.com/Seifhabib69/concrete-quantity-takeoff)**
+Python tool that generates transparent, auditable concrete quantity takeoffs from Excel inputs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+- Rebar and formwork takeoffs
+- Walls, stairs, and CSV import
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/seif-habib-1a488b256/) · your@email.com
