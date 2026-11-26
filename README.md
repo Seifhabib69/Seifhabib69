@@ -4,6 +4,7 @@ Structural engineer building open-source tools for the construction industry.
 
 ### Featured project
 **[concrete-quantity-takeoff](https://github.com/Seifhabib69/concrete-quantity-takeoff)**
+
 Python tool that generates transparent, auditable concrete quantity takeoffs from Excel inputs.
 
 ### Currently working on
